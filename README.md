@@ -1,6 +1,7 @@
 # Utils
 
-Greetings 👽! 
+Greetings 👽!
+
 This repository serves as a hub for practice, learning, and exploration.
 
 
