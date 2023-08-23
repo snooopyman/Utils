@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2AE41FEB2A93787500138EFD /* VerticalScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE41FEA2A93787500138EFD /* VerticalScrollViewController.swift */; };
+		2AE41FED2A93788200138EFD /* HorizontalScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE41FEC2A93788200138EFD /* HorizontalScrollViewController.swift */; };
+		2AE41FEF2A96AA4A00138EFD /* Views.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE41FEE2A96AA4A00138EFD /* Views.swift */; };
 		2AF33C0C2A8F97E300C68EC4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF33C0B2A8F97E300C68EC4 /* AppDelegate.swift */; };
 		2AF33C0E2A8F97E300C68EC4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF33C0D2A8F97E300C68EC4 /* SceneDelegate.swift */; };
 		2AF33C102A8F97E300C68EC4 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF33C0F2A8F97E300C68EC4 /* WelcomeViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2AE41FEA2A93787500138EFD /* VerticalScrollViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalScrollViewController.swift; sourceTree = "<group>"; };
+		2AE41FEC2A93788200138EFD /* HorizontalScrollViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalScrollViewController.swift; sourceTree = "<group>"; };
+		2AE41FEE2A96AA4A00138EFD /* Views.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views.swift; sourceTree = "<group>"; };
 		2AF33C082A8F97E300C68EC4 /* Utils.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Utils.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AF33C0B2A8F97E300C68EC4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2AF33C0D2A8F97E300C68EC4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,10 +65,13 @@
 				2AF33C0B2A8F97E300C68EC4 /* AppDelegate.swift */,
 				2AF33C0D2A8F97E300C68EC4 /* SceneDelegate.swift */,
 				2AF33C0F2A8F97E300C68EC4 /* WelcomeViewController.swift */,
+				2AE41FEC2A93788200138EFD /* HorizontalScrollViewController.swift */,
+				2AE41FEA2A93787500138EFD /* VerticalScrollViewController.swift */,
 				2AF33C1F2A8FB56F00C68EC4 /* TableVC.swift */,
 				2AF33C142A8F97E400C68EC4 /* Assets.xcassets */,
 				2AF33C162A8F97E400C68EC4 /* LaunchScreen.storyboard */,
 				2AF33C192A8F97E400C68EC4 /* Info.plist */,
+				2AE41FEE2A96AA4A00138EFD /* Views.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -139,6 +148,9 @@
 			files = (
 				2AF33C102A8F97E300C68EC4 /* WelcomeViewController.swift in Sources */,
 				2AF33C202A8FB56F00C68EC4 /* TableVC.swift in Sources */,
+				2AE41FEB2A93787500138EFD /* VerticalScrollViewController.swift in Sources */,
+				2AE41FEF2A96AA4A00138EFD /* Views.swift in Sources */,
+				2AE41FED2A93788200138EFD /* HorizontalScrollViewController.swift in Sources */,
 				2AF33C0C2A8F97E300C68EC4 /* AppDelegate.swift in Sources */,
 				2AF33C0E2A8F97E300C68EC4 /* SceneDelegate.swift in Sources */,
 			);
